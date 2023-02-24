@@ -1,4 +1,4 @@
-package com.jdl.NotificationStyle;
+package com.NotificationStyle;
 
 import static android.content.Context.NOTIFICATION_SERVICE;
 
