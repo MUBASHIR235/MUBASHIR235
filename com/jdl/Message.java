@@ -1,4 +1,4 @@
-package com.jdl.NotificationStyle;
+package com.NotificationStyle;
 
 public class Message {
     private CharSequence text;
